@@ -1,0 +1,10 @@
+C:\Users\Ryan\Documents\Library\LibraryData\LibraryData\bin\Debug\LibraryData.dacpac
+C:\Users\Ryan\Documents\Library\LibraryData\LibraryData\bin\Debug\LibraryData.dll
+C:\Users\Ryan\Documents\Library\LibraryData\LibraryData\bin\Debug\LibraryData.pdb
+C:\Users\Ryan\Documents\Library\LibraryData\LibraryData\obj\Debug\LibraryData.sqlproj.AssemblyReference.cache
+C:\Users\Ryan\Documents\Library\LibraryData\LibraryData\obj\Debug\Model.xml
+C:\Users\Ryan\Documents\Library\LibraryData\LibraryData\obj\Debug\refactor.xml
+C:\Users\Ryan\Documents\Library\LibraryData\LibraryData\obj\Debug\postdeploy.sql
+C:\Users\Ryan\Documents\Library\LibraryData\LibraryData\obj\Debug\predeploy.sql
+C:\Users\Ryan\Documents\Library\LibraryData\LibraryData\obj\Debug\LibraryData.dll
+C:\Users\Ryan\Documents\Library\LibraryData\LibraryData\obj\Debug\LibraryData.pdb

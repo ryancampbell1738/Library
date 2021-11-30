@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[Publisher]
+(
+	[PublisherID] INT	IDENTITY (1,1) NOT NULL,
+	[Name]	NVARCHAR (50)	NOT NULL,
+	[DateFounded]	DATETIME	NOT NULL,
+	PRIMARY KEY CLUSTERED	([PublisherID] ASC)
+)
