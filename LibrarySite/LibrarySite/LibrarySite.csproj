@@ -179,6 +179,11 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202112021402480_InitialCreate.cs" />
+    <Compile Include="Migrations\202112021402480_InitialCreate.Designer.cs">
+      <DependentUpon>202112021402480_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Author.cs">
       <DependentUpon>LibraryModel.tt</DependentUpon>
@@ -220,6 +225,19 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\4-dec-Tudor-Fest-Composite.jpg" />
+    <Content Include="Images\BL Inside_022.jpg" />
+    <Content Include="Images\Books.jpg" />
+    <Content Include="Images\BritishLibrary-ElizabethAndMary-JustineTrickett-011795s.jpg" />
+    <Content Include="Images\Elizabeth and Mary exhibition image August 2021.jpg" />
+    <Content Include="Images\english_and_drama.jpg" />
+    <Content Include="Images\european.jpg" />
+    <Content Include="Images\Gift-for-all-news-banner.png" />
+    <Content Include="Images\Hum 1.jpg" />
+    <Content Include="Images\library.jpg" />
+    <Content Include="Images\medieval_manuscripts.jpg" />
+    <Content Include="Images\Origin Coffee Roasters at The British Library.jpg" />
+    <Content Include="Images\TreasuresWhatsOnhomepage624x351.jpg" />
     <Content Include="Models\LibraryModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>LibraryModel.edmx</DependentUpon>
@@ -250,6 +268,7 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="StyleSheet.css" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -321,6 +340,11 @@
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202112021402480_InitialCreate.resx">
+      <DependentUpon>202112021402480_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
