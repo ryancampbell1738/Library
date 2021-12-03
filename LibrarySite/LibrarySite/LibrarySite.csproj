@@ -238,6 +238,7 @@
     <Content Include="Images\medieval_manuscripts.jpg" />
     <Content Include="Images\Origin Coffee Roasters at The British Library.jpg" />
     <Content Include="Images\TreasuresWhatsOnhomepage624x351.jpg" />
+    <Content Include="JavaScript.js" />
     <Content Include="Models\LibraryModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>LibraryModel.edmx</DependentUpon>
@@ -320,6 +321,7 @@
     <Content Include="Views\Publishers\Index.cshtml" />
     <Content Include="Views\Shared\_MenuBasic.cshtml" />
     <Content Include="Views\Shared\_MenuDetailed.cshtml" />
+    <Content Include="Views\Response.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

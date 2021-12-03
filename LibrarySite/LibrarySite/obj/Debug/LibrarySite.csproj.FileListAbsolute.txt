@@ -316,9 +316,9 @@ C:\Users\Ryan\Documents\Library\Library\LibrarySite\LibrarySite\bin\Microsoft.Ow
 C:\Users\Ryan\Documents\Library\Library\LibrarySite\LibrarySite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Ryan\Documents\Library\Library\LibrarySite\LibrarySite\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\Ryan\Documents\Library\Library\LibrarySite\LibrarySite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ryan\Documents\Library\Library\LibrarySite\LibrarySite\obj\Debug\LibrarySite.Migrations.InitialCreate.resources
+C:\Users\Ryan\Documents\Library\Library\LibrarySite\LibrarySite\obj\Debug\LibrarySite.csproj.GenerateResource.cache
 C:\Users\Ryan\Documents\Library\Library\LibrarySite\LibrarySite\obj\Debug\LibrarySite.csproj.CoreCompileInputs.cache
 C:\Users\Ryan\Documents\Library\Library\LibrarySite\LibrarySite\obj\Debug\LibrarySite.dll
 C:\Users\Ryan\Documents\Library\Library\LibrarySite\LibrarySite\obj\Debug\LibrarySite.pdb
-C:\Users\Ryan\Documents\Library\Library\LibrarySite\LibrarySite\obj\Debug\LibrarySite.Migrations.InitialCreate.resources
-C:\Users\Ryan\Documents\Library\Library\LibrarySite\LibrarySite\obj\Debug\LibrarySite.csproj.GenerateResource.cache
 C:\Users\Ryan\Documents\Library\Library\LibrarySite\LibrarySite\obj\Debug\LibrarySite.csproj.AssemblyReference.cache
