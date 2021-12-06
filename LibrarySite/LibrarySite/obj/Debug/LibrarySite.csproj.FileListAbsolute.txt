@@ -322,3 +322,5 @@ C:\Users\Ryan\Documents\Library\Library\LibrarySite\LibrarySite\obj\Debug\Librar
 C:\Users\Ryan\Documents\Library\Library\LibrarySite\LibrarySite\obj\Debug\LibrarySite.dll
 C:\Users\Ryan\Documents\Library\Library\LibrarySite\LibrarySite\obj\Debug\LibrarySite.pdb
 C:\Users\Ryan\Documents\Library\Library\LibrarySite\LibrarySite\obj\Debug\LibrarySite.csproj.AssemblyReference.cache
+D:\Library\LibrarySite\LibrarySite\obj\Debug\LibrarySite.Migrations.InitialCreate.resources
+D:\Library\LibrarySite\LibrarySite\obj\Debug\LibrarySite.csproj.GenerateResource.cache

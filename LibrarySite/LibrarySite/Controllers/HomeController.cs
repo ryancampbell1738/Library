@@ -27,5 +27,12 @@ namespace LibrarySite.Controllers
 
             return View();
         }
+
+        public ActionResult Response()
+        {
+            ViewBag.Message = "Form Response page.";
+
+            return View();
+        }
     }
 }

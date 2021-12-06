@@ -235,10 +235,15 @@
     <Content Include="Images\Gift-for-all-news-banner.png" />
     <Content Include="Images\Hum 1.jpg" />
     <Content Include="Images\library.jpg" />
+    <Content Include="Images\library5.jpg" />
     <Content Include="Images\medieval_manuscripts.jpg" />
+    <Content Include="Images\more people in library.jpg" />
+    <Content Include="Images\moremorelibrary.jpg" />
     <Content Include="Images\Origin Coffee Roasters at The British Library.jpg" />
+    <Content Include="Images\people in library.jpg" />
+    <Content Include="Images\peopleinlibrary.jpg" />
     <Content Include="Images\TreasuresWhatsOnhomepage624x351.jpg" />
-    <Content Include="JavaScript.js" />
+    <Content Include="Scripts\JavaScript.js" />
     <Content Include="Models\LibraryModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>LibraryModel.edmx</DependentUpon>
@@ -321,7 +326,7 @@
     <Content Include="Views\Publishers\Index.cshtml" />
     <Content Include="Views\Shared\_MenuBasic.cshtml" />
     <Content Include="Views\Shared\_MenuDetailed.cshtml" />
-    <Content Include="Views\Response.cshtml" />
+    <Content Include="Views\Home\Response.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

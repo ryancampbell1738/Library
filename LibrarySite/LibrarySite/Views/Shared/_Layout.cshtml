@@ -6,7 +6,8 @@
     <title>@ViewBag.Title - My ASP.NET Application</title>
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
-<link href="~/StyleSheet.css" rel="stylesheet" />
+    <script src="https://kit.fontawesome.com/984a824843.js" crossorigin="anonymous"></script>
+    <link href="~/StyleSheet.css" rel="stylesheet" />
 </head>
 <body>
     <div class="navbar navbar-inverse navbar-fixed-top">
@@ -30,8 +31,12 @@
     <div class="container body-content">
         @RenderBody()
         <hr />
-        <footer>
-            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        <footer style="text-align:center;">
+            <a href="https://www.facebook.com/ryan.campbell.soupboi"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://www.instagram.com/ryan_campbell_69/"><i class="fab fa-instagram"></i></a>
+            <a href="https://twitter.com/soupboi69"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.linkedin.com/in/ryan-campbell-965a451b5/"><i class="fab fa-linkedin-in"></i></a>
+            <p>&copy; @DateTime.Now.Year - Ryan Campbell</p>
         </footer>
     </div>
 
